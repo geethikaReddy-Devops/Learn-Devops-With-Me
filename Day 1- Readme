@@ -1,0 +1,112 @@
+# Day 01 – Introduction to DevOps
+
+#Date
+31 July 2026
+
+---
+
+# 📚 Topics Covered
+
+- What is DevOps?
+- why DevOps?
+- Day-to-Day activities in DevOps.
+- Hoe to intoduce yourself
+---
+
+# 📝 What I Learned
+
+Today I started my DevOps learning journey.
+
+I learned that DevOps is a culture that improves the delivery of the application.
+
+Here Why I called it has culture?Because as a DevOps engineer one should be ready to adopt a new tool or software 
+If it helps increase efficieny of the application.
+
+The main goals of DevOps are:
+
+- Faster software delivery
+- Continouus Monitoring
+- Continuous Integration (CI)
+- Continuous Delivery (CD)
+- Automation
+- Improved software quality
+
+---
+
+# Key Terms
+
+- DevOps
+- CI
+- CD
+- Automation
+- Monitoring
+- Testing
+
+---
+
+#My Understanding
+
+Before today, I thought DevOps was Ocean of tools
+
+Now I understand that DevOps is really very cool thing to do.
+
+It is a culture and a set of practices that help teams build, test, and deploy software faster and more reliably.
+
+---
+
+# Interview Questions
+
+### 1. What is DevOps?
+
+DevOps is a culture and set of practices that improves collaboration between Development and 
+Operations teams by automating software delivery and deployment.
+
+---
+
+### 2. Why DevOps?
+
+- Faster releases
+- Better collaboration
+- Reduced errors
+- Continuous feedback
+- Improved software quality
+
+---
+
+### 3.Day-to-Day activities in DevOps ?
+
+Start with your previous experience. If you are a fresher then try to make the interviewer understand the willingness to work as devOps.
+
+How you can relate your previous experience with your role( Testing for me) to the current DevOps role.
+
+Explain the Pillers of Devops:
+1.Automation
+2.Quality
+3.Monitoring
+4.Testing
+
+---
+
+# 🛠 Tools Mentioned
+
+- Git
+- Jenkins
+- Docker
+- Kubernetes
+- AWS
+
+(Will learn these in upcoming days.)
+
+---
+
+# 📖 Resources
+
+YouTube DevOps Course – Day 1
+
+---
+
+# ✅ Progress
+
+- [x] Completed Day 1
+- [ ] Practiced commands
+- [ ] Mini project
