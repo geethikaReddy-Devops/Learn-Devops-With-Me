@@ -1,0 +1,165 @@
+# Day 02 – Software Development Life Cycle (SDLC)
+
+## Date
+01 August 2026
+
+---
+
+# Topics Covered
+
+- What is SDLC?
+- Phases of SDLC
+- Roles and responsibilities in each phase
+- Where DevOps fits into the SDLC
+
+---
+
+# What I Learned
+
+Today, I learned about the **Software Development Life Cycle (SDLC)**, which is a structured process followed by organizations to develop, test, and deploy software efficiently.
+
+The SDLC helps ensure that software is built in a systematic manner while maintaining quality, meeting customer requirements, and reducing project risks.
+
+The major phases of SDLC are:
+
+1. Planning
+2. Requirement Definition
+3. Design
+4. Development
+5. Testing
+6. Deployment
+7. Maintenance
+
+---
+
+# SDLC Phases
+
+## 1. Planning
+
+The project begins with the planning phase.
+
+In this stage, the **Business Analyst (BA)** communicates with the customer to understand the business needs and project goals.
+
+The collected requirements are documented in a **Business Requirement Document (BRD)**, which serves as the foundation for the project.
+
+---
+
+## 2. Requirement Definition
+
+Once the requirements are gathered, they are analyzed and prioritized by the **Product Manager**.
+
+These prioritized requirements help the development team understand which features should be implemented first.
+
+---
+
+## 3. Design
+
+After the requirements are finalized, the **Software Architect** prepares the system design.
+
+The architect creates:
+
+- **High-Level Design (HLD)** – Overall architecture of the application.
+- **Low-Level Design (LLD)** – Detailed design of individual modules and components.
+
+These design documents guide the development team during implementation.
+
+---
+
+## 4. Development
+
+Developers begin writing the application code based on the approved design documents and business requirements.
+
+---
+
+## 5. Testing
+
+The Quality Assurance (QA) team verifies that the application functions correctly and ensures it meets the specified requirements by identifying and reporting defects.
+
+---
+
+## 6. Deployment
+
+Once testing is completed successfully, the application is deployed to the production environment so that end users can access it.
+
+---
+
+## 7. Maintenance
+
+After deployment, the application is continuously monitored and maintained. Any bugs, enhancements, or new feature requests are addressed during this phase.
+
+---
+
+# ⚙️ Where DevOps Fits into SDLC
+
+One of the key takeaways from today's session was understanding the role of **DevOps** in the SDLC.
+
+DevOps primarily supports the stages from **Development to Deployment** by automating repetitive tasks such as:
+
+- Code integration
+- Build creation
+- Testing
+- Deployment
+- Monitoring
+
+By automating these processes, DevOps reduces manual effort, minimizes human errors, and enables faster and more reliable software delivery.
+
+---
+
+# 💡 My Understanding
+
+Before learning about SDLC, I only knew the basic phases of software development.
+
+Today, I understood how different teams—including Business Analysts, Product Managers, Software Architects, Developers, QA Engineers, and DevOps Engineers—work together throughout the software development lifecycle to deliver a successful application.
+
+I also learned that DevOps is not a separate phase but a practice that streamlines development and deployment through automation and collaboration.
+
+---
+
+#  Interview Questions
+
+### 1. What is SDLC?
+
+SDLC (Software Development Life Cycle) is a structured process used to design, develop, test, deploy, and maintain software applications.
+
+---
+
+### 2. What are the phases of SDLC?
+
+- Planning
+- Requirement Definition
+- Design
+- Development
+- Testing
+- Deployment
+- Maintenance
+
+---
+
+### 3. What is the role of a Business Analyst?
+
+A Business Analyst gathers business requirements from customers, analyzes them, and documents them in a Business Requirement Document (BRD).
+
+---
+
+### 4. What is the difference between HLD and LLD?
+
+- HLD describes the overall system architecture.
+- LLD explains the detailed design of individual modules and components.
+
+---
+
+### 5. How does DevOps contribute to the SDLC?
+
+DevOps automates software development, testing, deployment, and monitoring processes, reducing manual effort and enabling faster, more reliable software releases.
+
+---
+
+#  Summary
+
+Today's session gave me a clear understanding of the Software Development Life Cycle and the responsibilities of different teams involved in software development. I also learned how DevOps enhances the SDLC by automating key processes and improving collaboration between development and operations teams.
+
+---
+
+## Progress
+
+Completed Day 02
