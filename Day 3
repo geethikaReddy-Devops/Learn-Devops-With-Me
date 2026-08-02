@@ -1,0 +1,164 @@
+# Day 03 – Virtualization and Virtual Machines (VM)
+
+## Date
+02 August 2026
+
+---
+
+# Topics Covered
+
+- What is a Physical Server?
+- What is Virtualization?
+- What is a Virtual Machine (VM)?
+- What is a Hypervisor?
+- Benefits of Virtualization
+
+---
+
+# What I Learned
+
+Today, I learned about **Virtualization**, one of the core technologies used in cloud computing and DevOps.
+
+Before virtualization, organizations typically deployed one application on one physical server. This often led to poor utilization of hardware resources because only a small portion of the server's CPU, memory (RAM), and storage was actually being used.
+
+Virtualization solves this problem by allowing multiple Virtual Machines (VMs) to run on a single physical server, making better use of available resources.
+
+---
+
+# Physical Server
+
+A physical server is an actual hardware machine containing components such as:
+
+- CPU
+- RAM
+- Storage
+- Network Interface
+
+Traditionally, one operating system runs directly on a physical server.
+
+---
+
+# What is a Virtual Machine (VM)?
+
+A Virtual Machine (VM) is a software-based computer that behaves like a physical computer.
+
+Each VM has its own:
+
+- Operating System
+- CPU allocation
+- Memory (RAM)
+- Storage
+- Applications
+
+Multiple VMs can run independently on the same physical server without affecting each other.
+
+---
+
+# What is a Hypervisor?
+
+A Hypervisor is software that creates and manages Virtual Machines.
+
+It acts as a bridge between the physical hardware and the virtual machines by allocating CPU, memory, storage, and networking resources to each VM.
+
+Without a Hypervisor, Virtual Machines cannot be created or managed.
+
+Examples of Hypervisors include:
+
+- VMware ESXi
+- Microsoft Hyper-V
+- KVM
+- Oracle VirtualBox
+
+---
+
+# Benefits of Virtualization
+
+- Better utilization of hardware resources
+- Reduced hardware costs
+- Efficient use of RAM and CPU
+- Multiple operating systems on one physical server
+- Faster provisioning of servers
+- Easier backup and disaster recovery
+- Improved scalability
+
+---
+
+# My Understanding
+
+One of the most interesting things I learned today is how virtualization reduces the inefficiency of physical servers.
+
+Instead of dedicating one physical server to a single application and leaving many resources unused, virtualization allows multiple Virtual Machines to share the same hardware efficiently.
+
+I also learned that the Hypervisor plays an important role by creating and managing these Virtual Machines.
+
+---
+
+#  Real-World Example
+
+Imagine a physical server with:
+
+- 64 GB RAM
+- 16 CPU Cores
+
+Without virtualization:
+
+Only one application might use:
+
+- 8 GB RAM
+- 2 CPU Cores
+
+The remaining resources stay unused.
+
+With virtualization:
+
+The same server can host multiple Virtual Machines, each running different applications, making full use of the available hardware.
+
+---
+
+#  Interview Questions
+
+### 1. What is Virtualization?
+
+Virtualization is the technology that allows multiple Virtual Machines to run on a single physical server.
+
+---
+
+### 2. What is a Virtual Machine?
+
+A Virtual Machine is a software-based computer that behaves like a physical computer and has its own operating system and resources.
+
+---
+
+### 3. What is a Hypervisor?
+
+A Hypervisor is software that creates, manages, and allocates resources to Virtual Machines.
+
+---
+
+### 4. Why is Virtualization important?
+
+Virtualization improves hardware utilization, reduces infrastructure costs, increases flexibility, and enables efficient resource management.
+
+---
+
+### 5. Why is Virtualization important in DevOps?
+
+Virtualization enables developers and operations teams to quickly create, manage, and scale environments required for development, testing, and deployment.
+
+---
+
+# Summary
+
+Today's session introduced me to virtualization, Virtual Machines, and Hypervisors. I learned how virtualization helps organizations maximize hardware utilization while reducing costs and improving efficiency.
+
+---
+
+## Reflection
+
+Today's topic was one of my favorites so far. Understanding how multiple Virtual Machines can run on a single physical server and efficiently utilize hardware resources gave me a better appreciation of how modern cloud and DevOps environments are built.
+
+---
+
+## ✅ Progress
+
+- [x] Completed Day 03
