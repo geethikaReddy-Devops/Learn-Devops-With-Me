@@ -1,0 +1,172 @@
+# Day 04 – Introduction to Cloud Platforms and Amazon EC2
+
+## 📅Date
+03 August 2026
+
+---
+
+# Topics Covered
+
+- Introduction to Cloud Computing
+- AWS (Amazon Web Services)
+- Microsoft Azure
+- Creating AWS and Azure Accounts
+- Amazon EC2
+- Launching a Virtual Machine
+- Manual Provisioning vs Automation
+
+---
+
+# What I Learned
+
+Today, I explored two of the most widely used cloud platforms in the industry: **Amazon Web Services (AWS)** and **Microsoft Azure**.
+
+I learned how to create accounts on both platforms and understood that cloud providers allow users to create virtual servers without purchasing physical hardware.
+
+One of the key services I explored was **Amazon EC2 (Elastic Compute Cloud)**, which enables users to launch and manage Virtual Machines (VMs) in the cloud.
+
+---
+
+# What is Cloud Computing?
+
+Cloud computing is the delivery of computing services such as servers, storage, databases, networking, and software over the internet.
+
+Instead of buying and maintaining physical servers, organizations can rent resources from cloud providers whenever they are needed.
+
+Popular cloud providers include:
+
+- Amazon Web Services (AWS)
+- Microsoft Azure
+- Google Cloud Platform (GCP)
+
+---
+
+# Amazon EC2
+
+Amazon EC2 (Elastic Compute Cloud) is a service provided by AWS that allows users to create and manage Virtual Machines.
+
+Using EC2, we can:
+
+- Launch Virtual Machines
+- Choose an Operating System
+- Select CPU and RAM configurations
+- Configure storage and networking
+- Access the VM remotely
+
+EC2 makes it possible to provision servers in just a few minutes.
+
+---
+
+# Hands-on Activity
+
+Today, I learned how to:
+
+- Create an AWS account
+- Create an Azure account
+- Launch an EC2 instance
+- Configure the instance
+- Access the Virtual Machine manually
+
+This practical exercise helped me understand how cloud infrastructure is created and managed.
+
+---
+
+# Manual Provisioning vs Automation
+
+One of the most valuable lessons today was understanding the difference between manually creating infrastructure and automating it.
+
+### Manual Process
+
+Creating EC2 instances manually through the AWS Management Console is useful for learning, but it can become time-consuming and error-prone when managing multiple servers.
+
+### Automated Process
+
+Infrastructure can be created automatically using tools such as:
+
+- AWS CDK (Cloud Development Kit)
+- AWS CloudFormation
+- Terraform
+
+Automation allows organizations to provision infrastructure quickly, consistently, and with fewer manual errors.
+
+---
+
+# My Understanding
+
+Today's session helped me understand that cloud platforms make it easy to create virtual infrastructure on demand.
+
+While manually creating EC2 instances is useful for beginners, it is not the most efficient approach in real-world projects. DevOps focuses on automating infrastructure creation using Infrastructure as Code (IaC) tools, making deployments faster, repeatable, and more reliable.
+
+---
+
+# Real-World Example
+
+Imagine a company needs to create 100 Virtual Machines.
+
+Manual Approach:
+- Create each VM individually.
+- Configure each server manually.
+- Time-consuming and prone to mistakes.
+
+Automated Approach:
+- Write the infrastructure configuration once.
+- Deploy all 100 VMs automatically using an IaC tool such as AWS CDK or Terraform.
+- Faster, consistent, and scalable.
+
+---
+
+# Interview Questions
+
+### 1. What is AWS?
+
+Amazon Web Services (AWS) is a cloud computing platform that provides services such as computing, storage, databases, networking, and security.
+
+---
+
+### 2. What is Amazon EC2?
+
+Amazon EC2 (Elastic Compute Cloud) is a service that allows users to create and manage Virtual Machines in the AWS cloud.
+
+---
+
+### 3. What is Cloud Computing?
+
+Cloud computing is the delivery of computing services over the internet, allowing users to access resources on demand without owning physical infrastructure.
+
+---
+
+### 4. Why is automation preferred over manual infrastructure creation?
+
+Automation reduces manual effort, minimizes configuration errors, improves consistency, and enables faster deployment of infrastructure.
+
+---
+
+### 5. What is Infrastructure as Code (IaC)?
+
+Infrastructure as Code (IaC) is the practice of managing and provisioning infrastructure using code instead of manual processes.
+
+Examples include AWS CDK, Terraform, and AWS CloudFormation.
+
+---
+
+# Summary
+
+Today's session introduced me to cloud computing and provided hands-on experience with AWS and Azure. I learned how to launch an Amazon EC2 instance and understood why automation and Infrastructure as Code are essential practices in modern DevOps environments.
+
+---
+
+## Reflection
+
+Today's lesson connected several concepts I learned earlier. First, I understood Virtual Machines and Hypervisors. Today, I saw how cloud providers like AWS use those concepts to let users create Virtual Machines on demand. I also realized that while manual provisioning is useful for learning, automation is the preferred approach in real-world DevOps because it is faster, scalable, and less prone to human error.
+
+---
+
+## Connection to DevOps
+
+This topic is important because DevOps engineers frequently provision and manage cloud infrastructure. Learning services like Amazon EC2 is the first step toward understanding Infrastructure as Code (IaC), automation, CI/CD pipelines, and cloud-native deployments.
+
+---
+
+## Progress
+
+Completed Day 04
